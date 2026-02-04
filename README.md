@@ -19,9 +19,14 @@
 
 ### 🚀 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,git,github,vscode,figma,mysql" />
-</p>
+- Python  
+- TensorFlow / Keras  
+- Scikit-Learn  
+- NumPy, Pandas, Matplotlib  
+- SQL  
+- Git & GitHub  
+- PySide6  
+- Figma  
 
 ---
 
@@ -35,11 +40,9 @@
 
 ---
 
-### 🔥 My GitHub Stats
+### 🔥 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheeseCakeyy&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CheeseCakeyy)
+<img src="https://github-readme-stats.vercel.app/api?username=CheeseCakeyy&show_icons=true&hide_border=true" />
 
 ---
 
@@ -70,12 +73,6 @@ Check them out in my repositories 👇
 <a href="https://github.com/CheeseCakeyy" target="blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 </p>
 
 ---
@@ -91,4 +88,3 @@ Check them out in my repositories 👇
 
 ⭐️ _“Learning by building is my philosophy.”_  
 Thanks for visiting my profile!
-
