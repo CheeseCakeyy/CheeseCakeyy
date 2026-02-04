@@ -37,17 +37,9 @@
 
 ### 🔥 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CheeseCakeyy&count_private=true&show_icons=true&theme=radical&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheeseCakeyy&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CheeseCakeyy&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheeseCakeyy&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CheeseCakeyy)
 
 ---
 
