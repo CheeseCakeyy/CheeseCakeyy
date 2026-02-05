@@ -1,9 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Adwait Tagalpallewar</h1>
+<h1 align="center">Heya!!! , I'm Adwait Tagalpallewar</h1>
 <h3 align="center">Aspiring AI Engineer | ML Enthusiast | Python Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CheeseCakeyy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -40,11 +36,6 @@
 
 ---
 
-### 🔥 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheeseCakeyy&show_icons=true&hide_border=true)
-
----
 
 ###  Featured Projects
 
@@ -69,12 +60,12 @@
 </a>
 </p>
 <p align="left">
-<a href="https://www.kaggle.com/adwaittagalpallewar" target="blank">
+<a href="https://www.linkedin.com/in/adwait-tagalpallewar-6158b6249/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/adwait-tagalpallewar-6158b6249/" target="blank">
+<a href="https://www.kaggle.com/adwaittagalpallewar" target="blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 </p>
