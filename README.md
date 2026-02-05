@@ -7,17 +7,17 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 Computer Science Engineering Student  
-- 🌱 Currently learning **Machine Learning & Deep Learning**
-- 💡 Love working on **AI, Automation & Data Science**
-- 🛠 Building projects using **Python, ML, and GUI Development**
-- 🎯 Goal: To grow as a skilled developer and land impactful internships
+-  Computer Science Engineering Student  
+-  Currently learning **Machine Learning & Deep Learning**
+-  Love working on **AI, Automation & Data Science**
+-  Building projects using **Python, ML, and GUI Development**
+-  Goal: To grow as a skilled developer and land impactful internships
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 - Python  
 - TensorFlow / Keras  
@@ -30,7 +30,7 @@
 
 ---
 
-### 📌 What I Work With
+###  What I Work With
 
 - **Languages:** Python, SQL  
 - **Libraries:** NumPy, Pandas, Matplotlib  
@@ -42,49 +42,53 @@
 
 ### 🔥 GitHub Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=CheeseCakeyy&show_icons=true&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CheeseCakeyy&show_icons=true&hide_border=true)
 
 ---
 
-### 🧠 Featured Projects
+###  Featured Projects
 
-💻 **Machine Learning & Data Science**
+ **Machine Learning & Data Science**
 - End-to-end ML pipelines  
 - Implemented preprocessing algorithms from scratch  
 - Classification & regression models  
 - Model evaluation and optimization  
 
-🖥 **GUI Applications**
+ **GUI Applications**
 - Interactive desktop tools using PySide6  
 - API-based applications  
 - Data visualization utilities  
 
-🤖 **Engineering Projects**
-- **RoboArm** – High torque robotic manipulator  
-- **LongRangeX** – Low latency drone communication system  
-
-Check them out in my repositories 👇
-
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 <p align="left">
 <a href="https://github.com/CheeseCakeyy" target="blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+<p align="left">
+<a href="https://www.kaggle.com/adwaittagalpallewar" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/adwait-tagalpallewar-6158b6249/" target="blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+</p>
 
 ---
 
-### 🎯 Currently Focusing On
+###  Currently Focusing On
 
 - Deep Learning concepts  
 - Building real-world ML projects  
-- Strengthening DSA and problem-solving  
 - Preparing for internships  
 
 ---
 
-⭐️ _“Learning by building is my philosophy.”_  
+ _“Abstraction doesnt block understanding-
+ Unexamined abstraction does!!!"_  
 Thanks for visiting my profile!
