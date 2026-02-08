@@ -1,5 +1,5 @@
 <h1 align="center">Heya!!! , I'm Adwait Tagalpallewar</h1>
-<h3 align="center">Aspiring AI Engineer | ML Enthusiast | Python Developer</h3>
+<h3 align="center">Aspiring ML Engineer | ML and Data-Science Enthusiast | Python Developer</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 -  Computer Science Engineering Student  
 -  Currently learning **Machine Learning & Deep Learning**
--  Love working on **AI, Automation & Data Science**
+-  Love working on **Machine learning competitions, Automation & Data Science**
 -  Building projects using **Python, ML, and GUI Development**
 -  Goal: To grow as a skilled developer and land impactful internships
 
@@ -32,7 +32,7 @@
 - **Libraries:** NumPy, Pandas, Matplotlib  
 - **ML/DL:** Scikit-Learn, TensorFlow, Keras  
 - **GUI:** PySide6  
-- **Tools:** Git, GitHub, VS Code, Figma  
+- **Tools:** Git, GitHub, VS Code, Jupiter Notebooks,Figma 
 
 ---
 
@@ -40,7 +40,7 @@
 ###  Featured Projects
 
  **Machine Learning & Data Science**
-- End-to-end ML pipelines  
+- End-to-end ML and DL pipelines  
 - Implemented preprocessing algorithms from scratch  
 - Classification & regression models  
 - Model evaluation and optimization  
