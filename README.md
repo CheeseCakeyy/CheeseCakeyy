@@ -52,6 +52,11 @@
 
 ---
 
+###  Certifications
+Relevant certifications can be found in the [certifications](./certifications) folder.
+
+---
+
 ###  Connect With Me
 
 <p align="left">
