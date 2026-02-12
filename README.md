@@ -1,4 +1,4 @@
-<h1 align="center">Heya!!! , I'm Adwait Tagalpallewar</h1>
+<h1 align="center">Heya!!! , I'm Adwait</h1>
 <h3 align="center">Aspiring ML Engineer | ML and Data-Science Enthusiast | Python Developer</h3>
 
 ---
