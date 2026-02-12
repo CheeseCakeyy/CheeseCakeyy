@@ -35,6 +35,8 @@ BigQuery - ML Data Preparation Pipelines - Cloud-based ML Workflows
 Routing & Switching Basics - Network Troubleshooting
 
 ------------------------------------------------------------------------
+(PDF available in repository, if the preview fails download and check it out.)
+------------------------------------------------------------------------
 
 ##  Continuous Learning
 
