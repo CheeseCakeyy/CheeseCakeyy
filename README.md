@@ -85,7 +85,7 @@ Relevant certifications can be found in the [certifications](./certifications) f
 
 ---
 
-If you find any of my repositories useful please appretiate it by leaving a star on it :3
+If you find any of my repositories useful please appreciate it by leaving a star on it :3
 
 ---
 
