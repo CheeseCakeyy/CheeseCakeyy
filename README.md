@@ -81,7 +81,8 @@ Relevant certifications can be found in the [certifications](./certifications) f
 
 - Deep Learning concepts  
 - Building real-world ML projects  
-- Preparing for internships  
+- Preparing for internships
+- Competing in Kaggle competitions
 
 ---
 
