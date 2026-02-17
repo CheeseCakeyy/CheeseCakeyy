@@ -26,6 +26,16 @@ BigQuery - ML Data Preparation Pipelines - Cloud-based ML Workflows
 
 ------------------------------------------------------------------------
 
+##  Google Cloud -- Build, Train and Deploy ML Models with Keras on Google Cloud
+
+**Issued by:** Google Cloud (Coursera)\
+🔗 [Credential Link](https://coursera.org/share/c38e2dade04ccf38e51e7c9ff46abb47)
+
+**Key Skills:** - Model Evaluation - Keras - Data Preprocessing - ML - Tensorflow -
+Cloud Deployment - Model Deployment
+
+------------------------------------------------------------------------
+
 ##  Google -- Bits and Bytes of Computer Networking
 
 **Issued by:** Google (Coursera)\
