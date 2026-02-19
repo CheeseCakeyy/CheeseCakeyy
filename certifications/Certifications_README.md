@@ -36,6 +36,15 @@ Cloud Deployment - Model Deployment
 
 ------------------------------------------------------------------------
 
+##  Google Cloud -- Machine Learning in the Enterprise
+
+**Issued by:** Google Cloud (Coursera)\
+🔗 [Credential Link](https://coursera.org/share/0a73d265d59078bd07815edf98adbfcf)
+
+**Key Skills:** - Data Pipelines - Model evaluation - Data Preprocessing - ML - Data Management -
+Google Cloud Platform - Model Deployment - Cloud Computing
+
+------------------------------------------------------------------------
 ##  Google -- Bits and Bytes of Computer Networking
 
 **Issued by:** Google (Coursera)\
