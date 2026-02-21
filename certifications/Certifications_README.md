@@ -45,6 +45,16 @@ Cloud Deployment - Model Deployment
 Google Cloud Platform - Model Deployment - Cloud Computing
 
 ------------------------------------------------------------------------
+
+##  Google Cloud -- Machine Learning Operations (MLOps): Getting Started
+
+**Issued by:** Google Cloud (Coursera)\
+🔗 [Credential Link](https://coursera.org/share/8514cc531bdbc3c653e08263c77591fb)
+
+**Key Skills:** - ML - Automation - Model Deployment - Continious Integration - 
+Continious Deployment - MLOps - DevOps - Cloud Deployment - Google Cloud Platform
+
+------------------------------------------------------------------------
 ##  Google -- Bits and Bytes of Computer Networking
 
 **Issued by:** Google (Coursera)\
