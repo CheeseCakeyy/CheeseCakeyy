@@ -51,7 +51,7 @@ Google Cloud Platform - Model Deployment - Cloud Computing
 **Issued by:** Google Cloud (Coursera)\
 🔗 [Credential Link](https://coursera.org/share/8514cc531bdbc3c653e08263c77591fb)
 
-**Key Skills:** - ML - Automation - Model Deployment - Continious Integration - 
+**Key Skills:** - Automation - Model Deployment - Continious Integration - ML -
 Continious Deployment - MLOps - DevOps - Cloud Deployment - Google Cloud Platform
 
 ------------------------------------------------------------------------
