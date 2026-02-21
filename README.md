@@ -32,7 +32,7 @@
 - **Libraries:** NumPy, Pandas, Matplotlib  
 - **ML/DL:** Scikit-Learn, TensorFlow, Keras  
 - **GUI:** PySide6  
-- **Tools:** Git, GitHub, VS Code, Jupiter Notebooks, Figma 
+- **Tools:** Git, GitHub, VS Code, Jupiter-Notebooks, Figma 
 
 ---
 
