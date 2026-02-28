@@ -55,6 +55,16 @@ Google Cloud Platform - Model Deployment - Cloud Computing
 Continious Deployment - MLOps - DevOps - Cloud Deployment - Google Cloud Platform
 
 ------------------------------------------------------------------------
+
+##  Google Cloud -- Introduction to AI and Machine Learning on Google Cloud
+
+**Issued by:** Google Cloud (Coursera)\
+🔗 [Credential Link](https://coursera.org/share/54b511ddd53276d96f8af151322012d1)
+
+**Key Skills:** - Feature Engineering Techniques - Data Transformation -
+BigQuery - ML Data Preparation Pipelines - Cloud-based ML Workflows
+
+------------------------------------------------------------------------
 ##  Google -- Bits and Bytes of Computer Networking
 
 **Issued by:** Google (Coursera)\
