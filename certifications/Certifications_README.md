@@ -61,9 +61,11 @@ Continious Deployment - MLOps - DevOps - Cloud Deployment - Google Cloud Platfor
 **Issued by:** Google Cloud (Coursera)\
 🔗 [Credential Link](https://coursera.org/share/c47827c90421fe87bff9d47c662c04bb)
 
-**Key Skills:** - Generative AI - Supervised Learning - AI - Prompt Engineering
+**Key Skills:** - Generative AI - Supervised Learning - AI - Prompt Engineering -
+Big Data - AI Workflows - Cloud Infrastructure - Google Cloud Platform
 
 ------------------------------------------------------------------------
+
 ##  Google -- Bits and Bytes of Computer Networking
 
 **Issued by:** Google (Coursera)\
