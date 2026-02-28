@@ -59,10 +59,9 @@ Continious Deployment - MLOps - DevOps - Cloud Deployment - Google Cloud Platfor
 ##  Google Cloud -- Introduction to AI and Machine Learning on Google Cloud
 
 **Issued by:** Google Cloud (Coursera)\
-🔗 [Credential Link](https://coursera.org/share/54b511ddd53276d96f8af151322012d1)
+🔗 [Credential Link](https://coursera.org/share/c47827c90421fe87bff9d47c662c04bb)
 
-**Key Skills:** - Feature Engineering Techniques - Data Transformation -
-BigQuery - ML Data Preparation Pipelines - Cloud-based ML Workflows
+**Key Skills:** - Generative AI - Supervised Learning - AI - Prompt Engineering
 
 ------------------------------------------------------------------------
 ##  Google -- Bits and Bytes of Computer Networking
