@@ -81,4 +81,4 @@ Routing & Switching Basics - Network Troubleshooting
 ##  Continuous Learning
 
 I actively apply the concepts from these certifications in my Machine
-Learning and Data Science projects available on my GitHub profile.
+Learning and Data Science projects available on my GitHub profile as well as in Data Science competitions on Kaggle.
