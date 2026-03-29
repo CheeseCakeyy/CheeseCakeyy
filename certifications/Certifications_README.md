@@ -75,6 +75,16 @@ Big Data - AI Workflows - Cloud Infrastructure - Google Cloud Platform
 Routing & Switching Basics - Network Troubleshooting
 
 ------------------------------------------------------------------------
+
+##  Anthropic -- Claude Code in Action
+
+**Issued by:** Anthropic\
+🔗 [Credential Link](https://verify.skilljar.com/c/b76dbamg6pcv)
+
+**Key Skills:** - Network Architecture - TCP/IP Model - DNS & HTTP -
+Routing & Switching Basics - Network Troubleshooting
+
+------------------------------------------------------------------------
 (PDF available in repository, if the preview fails download the certificate pdfs or use the credential links given in readme to check it out.)
 ------------------------------------------------------------------------
 
