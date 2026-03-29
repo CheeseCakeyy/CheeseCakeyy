@@ -81,8 +81,8 @@ Routing & Switching Basics - Network Troubleshooting
 **Issued by:** Anthropic\
 🔗 [Credential Link](https://verify.skilljar.com/c/b76dbamg6pcv)
 
-**Key Skills:** - Network Architecture - TCP/IP Model - DNS & HTTP -
-Routing & Switching Basics - Network Troubleshooting
+**Key Skills:** - Claude code setup - Custom commands - GitHub integration - 
+Hooks - Claude Code SDK
 
 ------------------------------------------------------------------------
 (PDF available in repository, if the preview fails download the certificate pdfs or use the credential links given in readme to check it out.)
