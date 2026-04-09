@@ -85,6 +85,16 @@ Routing & Switching Basics - Network Troubleshooting
 Hooks - Claude Code SDK
 
 ------------------------------------------------------------------------
+
+##  Google Cloud -- Production Machine Learning Systems
+
+**Issued by:** Google Cloud (Coursera)\
+🔗 [Credential Link](https://coursera.org/share/1baec602b9d13177bb6711658407f818)
+
+**Key Skills:** - Machine Learning - Systems Architecture - Scalability - Performance Tuning - 
+Hybrid Cloud Computing - Distributed Computing - MLOps - Model Deployment - Google Cloud Platform
+
+------------------------------------------------------------------------
 (PDF available in repository, if the preview fails download the certificate pdfs or use the credential links given in readme to check it out.)
 ------------------------------------------------------------------------
 
