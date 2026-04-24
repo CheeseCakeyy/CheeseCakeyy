@@ -95,6 +95,16 @@ Hooks - Claude Code SDK
 Hybrid Cloud Computing - Distributed Computing - MLOps - Model Deployment - Google Cloud Platform
 
 ------------------------------------------------------------------------
+
+##  Cisco - Networking Basics
+
+**Issued by:** Cisco \
+
+**Key Skills:** - Fundamental Networking Knowledge - IP Addressing & Subnetting -
+OSI & TCP/IP Models - Network Configuration Skills - Troubleshooting & Problem Solving -
+Basic Network Security - Hands-on Simulation Tools
+
+------------------------------------------------------------------------
 (PDF available in repository, if the preview fails download the certificate pdfs or use the credential links given in readme to check it out.)
 ------------------------------------------------------------------------
 
