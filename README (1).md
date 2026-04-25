@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd2bXp1dGVmazVhODZta25pdGJyaGlrMjhsMWFpMTN5bHEwb2ljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://tenor.com/bcPtS.gif" width="300" />
 
 ## `> whoami`
 
