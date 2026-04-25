@@ -104,7 +104,7 @@ adwait = {
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2w2bHFiZGJhcmM4NW5wNm1oaXZybXA4enZzYnNkNjgxejdqdzl1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRsaG8yZnF5bjMxM3lsdmhpYWo3cjZsazRnbGdxMGVuN2Z2YW9sayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="350" />
 </div>
 
 ---
