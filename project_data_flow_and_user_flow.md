@@ -67,6 +67,14 @@ flowchart LR
   Admin --> FDB
 ```
 
+```
+Portfolio descriptions and job descriptions are converted into embeddings and stored in a vector store like Chroma for semantic search and matchmaking.
+The original text and structured fields should still live in the main database as the source of truth.
+So the clean architecture is:
+
+Primary DB = profiles, portfolio metadata, job metadata, full text, statuses
+Vector store = embeddings for similarity search and AI matching
+```
 ## User Flow Diagram
 
 ```mermaid
